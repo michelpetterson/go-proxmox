@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/sergelogvinov/go-proxmox/compare/v0.2.0...v0.2.1) (2026-05-07)
+
+
+### Bug Fixes
+
+* wait for stop task in DeleteVMByID before issuing destroy ([224e4d6](https://github.com/sergelogvinov/go-proxmox/commit/224e4d68b9384815af895646f80cf9d8531a2b54))
+
 ## [0.2.0](https://github.com/sergelogvinov/go-proxmox/compare/v0.1.0...v0.2.0) (2026-04-04)
 
 
